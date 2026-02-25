@@ -701,6 +701,3 @@ new WOW().init();
     }, 1000); // 1-second delay
 });
 
-
-
-
